@@ -1,4 +1,4 @@
 # Anitha
 This is my first repository
 <br>
-Author - nenavath
+Author - Nenavath Anitha 
